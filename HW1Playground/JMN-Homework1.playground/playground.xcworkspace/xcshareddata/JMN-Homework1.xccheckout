@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4CAD5202-CE7B-43D0-A1E6-CBE31FE4B8EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C926FD5A0ACF4C220EF9C4A344541D9C68F2B9C1</key>
+		<string>https://github.com/jmn756/HW1-Playground.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JMN-Homework1.playground/playground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C926FD5A0ACF4C220EF9C4A344541D9C68F2B9C1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jmn756/HW1-Playground.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C926FD5A0ACF4C220EF9C4A344541D9C68F2B9C1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C926FD5A0ACF4C220EF9C4A344541D9C68F2B9C1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HW1Playground</string>
+		</dict>
+	</array>
+</dict>
+</plist>
