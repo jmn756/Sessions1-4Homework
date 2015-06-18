@@ -1,0 +1,22 @@
+Sessions 2,3,4 -- Homework: Roster App
+
+Session2:
+
+Drag out 2 buttons and label on your initial view controller
+Create actions for the 2 buttons, and an outlet for the label
+Create an array of 5 strings and store it in a property on your view controller
+Implement an algorithm that cycles through strings in the array as you press the buttons, showing a different string in the label.
+
+Session 3:
+
+Wipe out the work you did for the session 2 homework.
+Add a table view to your interface. It should take up the entire screen. Use autolayout like I did in class to ensure this.
+Show an array of strings in the table view. Follow the same steps I did in the slides/sample code.
+
+Session 4:
+
+Add a Person class to your Model layer. This class should contain properties for firstName and lastName
+Convert your table view to show an array of these person objects
+upon selecting on a cell, segue to a detail view controller, and show the selected person's firstName and lastName in separate labels.
+I want the firstName label to be dead center in the screen, and then the lastName label right below it, centered as well.
+
